@@ -122,12 +122,45 @@ Model pengembangan **Waterfall**, dibagi menjadi empat misi:
   
 ---
 
-## 7. Hasil Implementasi  
+
+## 7. Hasil Implementasi
+
+### Tampilan Sistem:
+-Database PharmacyDW muncul di Object Explorer SSMS.
+-Tabel Dim_Produk, Dim_Waktu, Dim_Transaksi, dan Fact_Sales tersedia di folder Tables.
+-Filegroup DW_FactGroup dapat diakses melalui Properties database.
+
+### Fungsionalitas Sistem:
+-Sistem mendukung analisis penjualan berdasarkan dimensi produk, waktu, dan transaksi.
+-Kinerja kueri analitik cepat berkat penggunaan indeks dan partisi yang tepat.
+-Data dummy disiapkan untuk simulasi analisis penjualan secara sederhana.
+
+### Struktur Data:
+- **Dim_Produk**: Berisi 5 produk: Paracetamol, Amoxicillin, Hand Sanitizer, Vitamin C, dan Masker Medis.
+- **Dim_Waktu**: Memuat 5 entri tanggal antara tahun 2024 hingga 2025.
+- **Dim_Transaksi**: Terdiri dari 5 transaksi dengan ID dari INV001 hingga INV005.
+- **Fact_Sales**: Memuat 5 baris data transaksi penjualan.
+
+### Deskripsi Tampilan:
+- **Object Explorer**: Menampilkan folder Databases dengan database PharmacyDW dan subfolder Tables berisi tabel-tabel yang sudah dibuat.
+- **Tab Query**: Menampilkan tab New Query yang memuat skrip create_tables.sql yang sudah dijalankan.
+- **Tab Results**: Menampilkan hasil Query 1 berupa tabel total penjualan per bulan dengan kolom Month, Year, dan Total_Penjualan.
 
 ---
 ## 8. Evaluasi
 
----
+### Keberhasilan:
+-Database dan tabel berhasil dibuat sesuai rancangan.
+-Proses ETL berjalan dan mengisi data dengan benar.
+-Kueri analitik berjalan lancar dan menghasilkan output sesuai ekspektasi.
+-Indeks dan partisi meningkatkan performa kueri.
+
+### Kendala Teknis:
+-Data tidak terbaca di OLAP SQL Server, kemungkinan kesalahan pada proses insert data.
+
+### Aspek yang Belum Tercapai:
+-ETL belum menggunakan SSIS karena keterbatasan sumber data.
+-Kueri seperti rata-rata transaksi per pelanggan dan produk terlaris per wilayah belum bisa dijalankan karena dimensi pelanggan dan wilayah belum tersedia.
 
 ---
 
