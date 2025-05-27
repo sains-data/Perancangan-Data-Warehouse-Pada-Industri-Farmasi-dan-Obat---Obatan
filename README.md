@@ -105,7 +105,6 @@ Model pengembangan **Waterfall**, dibagi menjadi empat misi:
 - **Rata-Rata Transaksi Bulanan**:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Rata-Rata%20Transaksi%20Bulanan.jpg)
 
-  
 - **Produk Terlaris**:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Produk%20Terlaris.jpg)
 
