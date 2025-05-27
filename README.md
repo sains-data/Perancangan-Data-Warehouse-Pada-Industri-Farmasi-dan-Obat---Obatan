@@ -98,6 +98,9 @@ Model pengembangan **Waterfall**, dibagi menjadi empat misi:
   
 - **Proses ETL**:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Proses%20ETL.jpg)
+
+- **Pertumbuhan Penjualan Tahunan**:
+  ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Pertumbuhann%20Penjualan%20Tahunan.jpg)
   
 - **Total Penjualan Bulanan**:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Total%20Penjualan%20Bulanan.jpg)
@@ -107,10 +110,6 @@ Model pengembangan **Waterfall**, dibagi menjadi empat misi:
 
 - **Produk Terlaris**:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Produk%20Terlaris.jpg)
-
-  
-- **Pertumbuhan Penjualan Tahunan**:
-  ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Pertumbuhann%20Penjualan%20Tahunan.jpg)
   
 ---
 
