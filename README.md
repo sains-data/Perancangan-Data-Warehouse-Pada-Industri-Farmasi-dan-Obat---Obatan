@@ -100,16 +100,19 @@ Model pengembangan **Waterfall**, dibagi menjadi empat misi:
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Proses%20ETL.jpg)
 
 - **Total Penjualan Bulanan**:
+  
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Total%20Penjualan%20Bulanan.jpg)
 
 
   
 - **Rata-Rata Transaksi Bulanan**:
+  
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Rata-Rata%20Transaksi%20Bulanan.jpg)
 
 
 
 - **Produk Terlaris**:
+  
   ![image alt](https://github.com/sains-data/Perancangan-Data-Warehouse-Pada-Industri-Farmasi-dan-Obat---Obatan/blob/cfc6ca93abfbadeb51d96bcf4257542d2d38c1eb/images/Produk%20Terlaris.jpg)
 
 
